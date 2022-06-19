@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@200;300;400;500;600&display=swap');
+
+* {
+	font-family: 'Lexend Deca', sans-serif;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	max-width: 1560px;
+	margin: 0 auto 10em;
+}
+
+img {
+	width: 100%;
+}
+
+body > header {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	padding: 3em;
+	background-color: rgb(3, 16, 45);
+	margin-bottom: 5em;
+}
+
+h1 {
+	margin-bottom: 12px;
+	font-weight: 600;
+	text-transform: uppercase;
+	color: white;
+}
+
+body > header p {
+	font-weight: 300;
+	font-size: 1.1em;
+	color: rgb(231, 231, 231);
+	line-height: 2;
+	margin-top: 1em;
+}
+
+main {
+	width: 90%;
+	margin: auto;
+}
+
+#cards {
+	display: flex;
+	width: 100%;
+	flex-wrap: wrap;
+	justify-content: center;
+	margin-top: 3em;
+}
+
+article > header > * {
+	text-align: center;
+}
+
+article > header > h2 {
+	margin-bottom: 1em;
+	color: #222;
+}
+
+article > header > p {
+	font-size: 1.2em;
+	color: rgb(97, 97, 97);
+}
+
+.card {
+	width: 100%;
+	margin: 1em;
+	background-color: white;
+	border-radius: 10px;
+	filter: drop-shadow(0 0 10px rgba(0, 0, 0, 0.2));
+	cursor: pointer;
+	transition: 0.3s ease-in-out;
+}
+
+.card img {
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	filter: grayscale(50%);
+}
+
+.card:hover {
+	transform: scale(1.02);
+}
+
+.card:hover img {
+	filter: grayscale(0);
+}
+
+.card > section {
+	padding: 2em 1.2em 3em;
+}
+
+.card > section h2 {
+	font-weight: 500;
+	color: #222;
+}
+
+.card > section p {
+	font-weight: 400;
+	font-size: 1.065em;
+	color: rgb(97, 97, 97);
+	line-height: 1.5;
+}
+
+@media screen and (min-width: 576px) {
+	main {
+		width: 100%;
+	}
+
+	body > header {
+		padding: 4em;
+	}
+
+	.card {
+		width: 600px;
+	}
+}
