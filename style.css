@@ -22,7 +22,7 @@ body > header {
 	align-items: center;
 	justify-content: center;
 	text-align: center;
-	padding: 3em;
+	padding: 1.5em;
 	background-color: rgb(3, 16, 45);
 	margin-bottom: 5em;
 }
@@ -120,6 +120,7 @@ footer {
 	justify-content: center;
 	font-size: 1.2em;
 	color: rgb(97, 97, 97);
+        text-align: center;
 }
 
 footer a {
