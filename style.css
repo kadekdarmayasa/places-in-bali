@@ -9,7 +9,7 @@
 
 body {
 	max-width: 1560px;
-	margin: 0 auto 10em;
+	margin: 0 auto;
 }
 
 img {
@@ -107,6 +107,23 @@ article > header > p {
 	font-size: 1.065em;
 	color: rgb(97, 97, 97);
 	line-height: 1.5;
+}
+
+footer {
+	width: 90%;
+	margin: auto;
+	height: 100px;
+	margin-top: 10em;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 1.2em;
+	color: rgb(97, 97, 97);
+}
+
+footer a {
+	color: rgb(3, 16, 45);
+	text-decoration: none;
 }
 
 @media screen and (min-width: 576px) {
