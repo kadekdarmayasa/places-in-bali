@@ -7,16 +7,16 @@
 	{
 		"name": "Mount Batur",
 		"description": "Every day in Bali's predawn darkness, hundreds of visitors begin the trek up the 1,700-meter summit of Mount Batur. Once at the top, they watch the sun rise above the lush mosaic of mist-shrouded mountains and the caldera far below. If you're looking for romantic things to do in Bali for couples, this should be top on your list.",
-		"picture": "img/bali-mount-batur.jpg"
+		"picture": "img/mount-batur.jpg"
 	},
 	{
 		"name": "Ubud Monkey Forest",
 		"description": "Visiting the Monkey Forest, also known as the Sacred Monkey Forest Sanctuary, is one of the top things to do in Ubud, Bali. It's also one of the best places to visit in Bali if you're an animal lover or photographer. You can walk here in about 10 minutes from the town center in Ubud.",
-		"picture": "img/bali-ubud-monkey-forest.jpg"
+		"picture": "img/ubud-monkey-forest.jpg"
 	},
 	{
-		"name": "Ubud Art & Culture",
-		"description": "Made famous by the book and movie Eat, Pray, Love, Ubud is also the epicenter of Balinese art and culture. This is where the modern Balinese art movement was born, with the surrounding royal palaces and temples acting as the main patrons.",
-		"picture": "img/ubud-art-culture.jpg"
+		"name": "Ubud Art Market",
+		"description": "The Ubud Art Market is a great place to find beautiful silk scarves, lightweight shirts, statues, kites, handmade woven bags, baskets or hats and many other hand-crafted goods. Locally known as Pasar Seni Ubud, the market is opposite the Puri Saren Royal Ubud Palace and opens daily.",
+		"picture": "img/ubud-art-market.jpg"
 	}
 ]

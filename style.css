@@ -100,13 +100,14 @@ article > header > p {
 .card > section h2 {
 	font-weight: 500;
 	color: #222;
+	margin-bottom: 0.8em;
 }
 
 .card > section p {
 	font-weight: 400;
 	font-size: 1.065em;
 	color: rgb(97, 97, 97);
-	line-height: 1.5;
+	line-height: 1.8;
 }
 
 footer {
