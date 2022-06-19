@@ -1,9 +1,3 @@
-# Places in Bali
+# places-in-bali
 
-Places in Bali is a landing website, the wesbite including some of famous / visited places in Bali.
-
-## Tech Stacks
-
-1. HTML5
-2. CSS3
-3. JavaScript (fetchAPI, async/await)
+Places in bali is a landing page website that I build to train my JavaScript Skills, especially in fetch API and async await.
